@@ -7,3 +7,5 @@ holllll
 Nombre: Julian
 
 Edad: 24
+
+Pasatiempo: gym
